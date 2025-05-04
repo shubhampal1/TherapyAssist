@@ -1,0 +1,7 @@
+flask
+fastapi
+mediapipe
+numpy
+opencv-python
+pyttsx3
+random
